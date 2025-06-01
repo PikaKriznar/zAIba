@@ -21,3 +21,36 @@ The second model (_ei-zabe-arduino-1.0.7.zip_) is also a classification model bu
 ## Mobile app žAIba
 The mobile app is created for Android 15.0 devices and is currently in the stages of development. 
 Additional features such as in-app audio recording with AI-based frog species identification and organization of public campaigns in cooperation with herpetology associations and natural history museums will be added once additional required resources for such functions is available.
+
+## Team
+**Pika Križnar**
+* Idea development
+* Project management
+* ML model engineer
+* Arduino software development
+* Mobile app developer
+* Content collection
+* UX/UI design
+  
+**Nina Viktoria Baškarad**
+* Arduino software development
+* Project coordination
+* Demo video animation
+* Content creator
+  
+**Gašper Vrabič**
+* LoRaWAN integration
+* Arduino software development
+* Prototype configuration
+* Technical support
+* Content creator
+
+**Neža Zore Pokorn**
+* ML model preparation
+* Content collection
+* Sensor enclosure design
+* Content creator
+
+## Acknowledgment
+The initiative for the project came from **asist. mag. Luka Mali** provided us with the proper equipment and knowledge to bring this idea to life. The project was part of faculty subject Mobilnost in internet stvari, part of Multimedia program at Faculty of Electrical Engineering of University of Ljubljana.
+Special thanks to **dr. Tomi Trilar**, museum consultant at the Slovenian Museum of Natural History, for providing authentic frog recordings.
