@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Zaiba" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:windowBackground">@color/ic_launcher_new_background</item>
+        
+    </style>
+
+    <style name="Theme.Zaiba" parent="Base.Theme.Zaiba">
+        <item name="android:windowBackground">@color/ic_launcher_background</item>
+        <item name="materialButtonStyle">@style/Gumb</item>
+        <!--<item name="android:windowSplashScreenIconBackgroundColor">@color/ic_launcher_new_background</item>-->
+    </style>
+    <style name="Gumb" parent="Widget.Material3.Button">
+        <item name="android:backgroundTint">@color/white</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="GreenRoundedButton">
+        <item name="android:background">@drawable/button_green_selector</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">8sp</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,214 @@
+{
+  "April 2025": {
+    "1": {
+      "dayOfWeek": "Tuesday",
+      "navadna krastača": 42,
+      "zelena rega": 87,
+      "sekulja": 23,
+      "total": 152
+    },
+    "2": {
+      "dayOfWeek": "Wednesday",
+      "navadna krastača": 76,
+      "zelena rega": 19,
+      "sekulja": 94,
+      "total": 189
+    },
+    "3": {
+      "dayOfWeek": "Thursday",
+      "navadna krastača": 33,
+      "zelena rega": 65,
+      "sekulja": 81,
+      "total": 179
+    },
+    "4": {
+      "dayOfWeek": "Friday",
+      "navadna krastača": 91,
+      "zelena rega": 47,
+      "sekulja": 12,
+      "total": 150
+    },
+    "5": {
+      "dayOfWeek": "Saturday",
+      "navadna krastača": 28,
+      "zelena rega": 73,
+      "sekulja": 56,
+      "total": 157
+    },
+    "6": {
+      "dayOfWeek": "Sunday",
+      "navadna krastača": 84,
+      "zelena rega": 31,
+      "sekulja": 99,
+      "total": 214
+    },
+    "7": {
+      "dayOfWeek": "Monday",
+      "navadna krastača": 17,
+      "zelena rega": 88,
+      "sekulja": 43,
+      "total": 148
+    },
+    "8": {
+      "dayOfWeek": "Tuesday",
+      "navadna krastača": 62,
+      "zelena rega": 24,
+      "sekulja": 77,
+      "total": 163
+    },
+    "9": {
+      "dayOfWeek": "Wednesday",
+      "navadna krastača": 95,
+      "zelena rega": 51,
+      "sekulja": 38,
+      "total": 184
+    },
+    "10": {
+      "dayOfWeek": "Thursday",
+      "navadna krastača": 39,
+      "zelena rega": 82,
+      "sekulja": 16,
+      "total": 137
+    },
+    "11": {
+      "dayOfWeek": "Friday",
+      "navadna krastača": 71,
+      "zelena rega": 44,
+      "sekulja": 92,
+      "total": 207
+    },
+    "12": {
+      "dayOfWeek": "Saturday",
+      "navadna krastača": 25,
+      "zelena rega": 97,
+      "sekulja": 63,
+      "total": 185
+    },
+    "13": {
+      "dayOfWeek": "Sunday",
+      "navadna krastača": 88,
+      "zelena rega": 35,
+      "sekulja": 49,
+      "total": 172
+    },
+    "14": {
+      "dayOfWeek": "Monday",
+      "navadna krastača": 53,
+      "zelena rega": 79,
+      "sekulja": 27,
+      "total": 159
+    },
+    "15": {
+      "dayOfWeek": "Tuesday",
+      "navadna krastača": 66,
+      "zelena rega": 14,
+      "sekulja": 85,
+      "total": 165
+    },
+    "16": {
+      "dayOfWeek": "Wednesday",
+      "navadna krastača": 31,
+      "zelena rega": 93,
+      "sekulja": 58,
+      "total": 182
+    },
+    "17": {
+      "dayOfWeek": "Thursday",
+      "navadna krastača": 78,
+      "zelena rega": 41,
+      "sekulja": 22,
+      "total": 141
+    },
+    "18": {
+      "dayOfWeek": "Friday",
+      "navadna krastača": 46,
+      "zelena rega": 67,
+      "sekulja": 89,
+      "total": 202
+    },
+    "19": {
+      "dayOfWeek": "Saturday",
+      "navadna krastača": 92,
+      "zelena rega": 29,
+      "sekulja": 54,
+      "total": 175
+    },
+    "20": {
+      "dayOfWeek": "Sunday",
+      "navadna krastača": 37,
+      "zelena rega": 76,
+      "sekulja": 18,
+      "total": 131
+    },
+    "21": {
+      "dayOfWeek": "Monday",
+      "navadna krastača": 83,
+      "zelena rega": 52,
+      "sekulja": 96,
+      "total": 231
+    },
+    "22": {
+      "dayOfWeek": "Tuesday",
+      "navadna krastača": 21,
+      "zelena rega": 84,
+      "sekulja": 45,
+      "total": 150
+    },
+    "23": {
+      "dayOfWeek": "Wednesday",
+      "navadna krastača": 69,
+      "zelena rega": 33,
+      "sekulja": 78,
+      "total": 180
+    },
+    "24": {
+      "dayOfWeek": "Thursday",
+      "navadna krastača": 44,
+      "zelena rega": 91,
+      "sekulja": 26,
+      "total": 161
+    },
+    "25": {
+      "dayOfWeek": "Friday",
+      "navadna krastača": 86,
+      "zelena rega": 48,
+      "sekulja": 62,
+      "total": 196
+    },
+    "26": {
+      "dayOfWeek": "Saturday",
+      "navadna krastača": 32,
+      "zelena rega": 75,
+      "sekulja": 19,
+      "total": 126
+    },
+    "27": {
+      "dayOfWeek": "Sunday",
+      "navadna krastača": 98,
+      "zelena rega": 42,
+      "sekulja": 87,
+      "total": 227
+    },
+    "28": {
+      "dayOfWeek": "Monday",
+      "navadna krastača": 55,
+      "zelena rega": 64,
+      "sekulja": 34,
+      "total": 153
+    },
+    "29": {
+      "dayOfWeek": "Tuesday",
+      "navadna krastača": 77,
+      "zelena rega": 28,
+      "sekulja": 93,
+      "total": 198
+    },
+    "30": {
+      "dayOfWeek": "Wednesday",
+      "navadna krastača": 43,
+      "zelena rega": 81,
+      "sekulja": 57,
+      "total": 181
+    }
+  }
+}

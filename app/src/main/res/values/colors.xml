@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splash_bg_color">#FFFFFFFF</color>
+    <color name="ic_launcher_new_background">#80DB64</color>
+    <color name="ic_launcher_background">#80DB64</color>
+    <color name="text_heading">#80DB64</color>
+    <color name="dark_green">#62A361</color>
+    <color name="light_grey_bar">#D3D3D3</color>
+    <color name="light_green_bar">#ddf1cc</color>
+    <color name="light_green">#A5D6A7</color>
+    <color name="default_button_bg">#FFFFFF</color>
+    <color name="dark_green_bar">#1E2E06</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- Theme colors -->
+    <color name="light_green_cards">#CAEDAF</color>
+    <color name="g1">#92d359</color>
+    <color name="g2">#ffe256</color>
+    <color name="g3">#72bd30</color>
+    <color name="g4">#3be99b</color>
+    <color name="g5">#23d329</color>
+
+
+    <!-- Card colors -->
+    <color name="card_1">#abdd7f</color>
+    <color name="card_2">#50e354</color>
+    <color name="card_3">#6eed98</color>
+    <color name="card_4">#18cc79</color>
+</resources>
+
+<!--
+InputStream is = context.getAssets().open("april_data.json");
+//            InputStream is = context.getAssets().open("may_data.json");
+//            InputStream is = context.getAssets().open("june_data.json");
+-->

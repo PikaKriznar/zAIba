@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="horizontal"
+    android:id="@+id/graphContainer"
+    android:gravity="bottom"
+    android:weightSum="7"
+    android:layout_marginBottom="8dp"
+    android:baselineAligned="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:id="@+id/bar_day_1"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="bottom|center_horizontal">
+
+        <View
+            android:id="@+id/bar_monday"
+            android:layout_width="20dp"
+            android:layout_height="150dp"
+            android:background="@drawable/bar_default" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/monday"
+            android:background="@color/white"
+            android:layout_marginTop="4dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bar_day_2"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="bottom|center_horizontal">
+
+        <View
+            android:id="@+id/bar_tuesday"
+            android:layout_width="20dp"
+            android:layout_height="100dp"
+            android:background="@drawable/bar_default" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tuesday"
+            android:background="@color/white"
+            android:layout_marginTop="4dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bar_day_3"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="bottom|center_horizontal">
+
+        <View
+            android:id="@+id/bar_wednesday"
+            android:layout_width="20dp"
+            android:layout_height="120dp"
+            android:background="@drawable/bar_default" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/wednesday"
+            android:background="@color/white"
+            android:layout_marginTop="4dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bar_day_4"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="bottom|center_horizontal">
+
+        <View
+            android:id="@+id/bar_thursday"
+            android:layout_width="20dp"
+            android:layout_height="80dp"
+            android:background="@drawable/bar_default" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/thursday"
+            android:background="@color/white"
+            android:layout_marginTop="4dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bar_day_5"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="bottom|center_horizontal">
+
+        <View
+            android:id="@+id/bar_friday"
+            android:layout_width="20dp"
+            android:layout_height="140dp"
+            android:background="@drawable/bar_default" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/friday"
+            android:background="@color/white"
+            android:layout_marginTop="4dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bar_day_6"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="bottom|center_horizontal">
+
+        <View
+            android:id="@+id/bar_saturday"
+            android:layout_width="20dp"
+            android:layout_height="70dp"
+            android:background="@drawable/bar_default" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/saturday"
+            android:background="@color/white"
+            android:layout_marginTop="4dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bar_day_7"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="bottom|center_horizontal">
+
+        <View
+            android:id="@+id/bar_sunday"
+            android:layout_width="20dp"
+            android:layout_height="130dp"
+            android:background="@drawable/bar_default" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sunday"
+            android:background="@color/white"
+            android:layout_marginTop="4dp" />
+    </LinearLayout>
+    <!-- Pie Chart Container for Today -->
+    <FrameLayout
+        android:id="@+id/pieChartContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+        <!-- Custom Pie Chart View will be added programmatically -->
+    </FrameLayout>
+</LinearLayout>

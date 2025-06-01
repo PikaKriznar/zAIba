@@ -1,0 +1,39 @@
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="0dp"
+    android:clickable="false"
+    android:focusable="true"
+    android:foreground="?android:attr/selectableItemBackground"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="4dp">
+
+<RelativeLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:padding="10dp">
+
+<TextView
+    android:id="@+id/traffic_title"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentStart="true"
+    android:layout_marginBottom="8dp"
+    android:fontFamily="@font/archivo_bold"
+    android:textColor="@android:color/black"
+    android:textSize="14sp" />
+
+<TextView
+    android:id="@+id/traffic_stat"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/traffic_title"
+    android:fontFamily="@font/archivo_extrabold"
+    android:textColor="@android:color/black"
+    android:textSize="18sp" />
+
+</RelativeLayout>
+    </androidx.cardview.widget.CardView>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="4dp"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="4dp"
+    app:cardUseCompatPadding="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp">
+
+        <!-- Save Icon (Top-right) -->
+        <ImageButton
+            android:id="@+id/saveButton"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_bookmark_border"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:contentDescription="Save"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <!-- Bigger ImageView with proper scaling -->
+        <ImageView
+            android:id="@+id/cardImage"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent" />
+
+
+
+        <!-- Text container (Title + Description) -->
+        <LinearLayout
+            android:id="@+id/textContainer"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingHorizontal="8dp"
+            app:layout_constraintStart_toEndOf="@id/cardImage"
+            app:layout_constraintTop_toTopOf="@id/cardImage"
+            app:layout_constraintEnd_toStartOf="@id/saveButton"
+            app:layout_constraintBottom_toTopOf="@id/estTimeText">
+
+            <TextView
+                android:id="@+id/cardTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Title"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/cardDescription"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Description"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <!-- Aligned Estimated Reading Time -->
+        <TextView
+            android:id="@+id/estTimeText"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Est. time: 0 minutes"
+            android:textSize="12sp"
+            android:layout_marginStart="8dp"
+            android:textColor="#777"
+            app:layout_constraintStart_toStartOf="@id/textContainer"
+            app:layout_constraintEnd_toEndOf="@id/textContainer"
+            app:layout_constraintTop_toBottomOf="@id/textContainer"
+            app:layout_constraintBottom_toBottomOf="@id/cardImage" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

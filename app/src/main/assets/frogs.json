@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Zelena rega",
+    "latinName": "Hyla arborea",
+    "image": "zaba2",
+    "description": "Zelena rega je pogosta žaba v Sloveniji, znana po svojem značilnem petju...",
+    "basicDescription": "Zelena rega ima gladko in svetlečo kožo, za katero je značilna živo zelena obarvanost hrbta. Trebuh je belkast, ravno tako grlo pri samicah. Grlo samcev je rumeno bronaste barve, pod njim pa lahko opazimo en zvočni mehur, kar sta edina znaka, po katerih jih lahko zanesljivo ločimo od samic. Ima majhno glavo z velikimi izbuljenimi očmi, vodoravne ovalne zenice in majhen okrogel bobnič. Ozka temno rjava proga se razteza od nosnic preko oči in bobniča vzdolž bokov. Barvo telesa lahko prilagaja glede na barvo okolice, razpoloženje, temperaturo okolja, svetlobo ali vlago, zato je lahko celo rjave ali sive barve. Okrogle oprijemalne blazinice na konicah prstov ji omogočajo spretno plezanje po vejah, listih grmov, dreves ali trstičja in podobnih visokih rastlin.",
+    "mapCoordinates": {"latitude": 46.0569, "longitude": 14.5058},
+    "habitat": "Odrasle živali se večji del leta zadržujejo na gozdnih obronkih, mejicah in travnikih z višjo vegetacijo. V paritvenem obdobju jih najdemo v manjših mlakah z veliko vodnega rastlinja in brez rib.",
+    "biology":"Zelena rega je večinoma aktivna podnevi, le oglašanje in parjenje potekata po sončnem zahodu. Pogosto se zadržujejo v grmovju in krošnjah dreves, kjer samci lahko splezajo celo nekaj metrov visoko in dobro skriti prežijo na žuželke in druge nevretenčarje. Zelene rege spolno dozorijo med prvim in drugim letom starosti. V obdobju parjenja, ki traja od aprila do junija, samci na mrestiščih privabljajo samice z glasnim regljanjem ke-ke-ke-ke-ke. Samci se v tem času na mrestišču ponavadi zadržujejo dalj časa ali obiščejo celo več mrestišč. Samica se v vodi zadržuje le v času parjenja in odlaganja mresta. Samice mrest v velikosti oreha odložijo v plitve, osončene dele mlak, kjer ga pritrdijo na bilke vodnih rastlin. Kljub svoji majhnosti so zelo glasne, saj je zbor samcev včasih mogoče slišati tudi kilometre daleč. Zelene rege ponavadi prezimujejo na kopnem, od mrestišč pa se ne selijo več kot 300 metrov daleč. Zelena rega lahko živi tudi do 10 let.",
+    "biologyStages": ["Mrest v velikosti oreha pritrjen na bilko.", "Zarodki se razvijajo", "Paglavci imajo značilen svetleč trebuh", "Pupek, predzadnja razvojna faza", "Mlada zelena rega"],
+    "soundFile": "green_frog.wav",
+    "estReadingTime": "15 minutes"
+  },
+
+  {
+    "name": "Navadna krastača",
+    "latinName": "Bufo bufo",
+    "image": "zaba22",
+    "description": "Navadna krastača je nočna žaba, ki jo najdemo po vsej Evropi...",
+    "basicDescription": "Navadna krastača je naša največja brezrepa dvoživka. Samice so velike do 18 cm, samci pa so za tretjino manjši. Koža je groba, z velikimi in izrazitimi bradavičastimi žlezami. Barvo kože lahko prilagaja barvi okolice, ponavadi pa je hrbet temno rjave do rumeno rjave ali rdečkasto rjave barve, včasih z neizrazitim temnejšim vzorcem. Trebuh je svetel, pogosto z marmoriranim vzorcem temnejših lis. Na glavi takoj za očmi ima izrazite zaušesne žleze, ki se proti zadnjemu delu telesa razhajajo. Na njih so s prostim očesom vidne pore, skozi katere izloča strupen izloček. Gobec je top in zaokrožen, oči pa so izbuljene, z vodoravno črno zenico in bakreno šarenico. Samci imajo bolj krepke sprednje noge, katerih prvi trije prsti imajo v obdobju parjenja temne kožne odebelitve. Z njimi se v paritvenem objemu oprimejo samice. Zadnje okončine so krajše kot pri pravih žabah, zato navadne krastače niso dobre skakalke. Njihovo gibanje je nekje med hojo in skakanjem, saj hojo običajno stopnjujejo z nizom vmesnih majhnih poskokov.",
+    "mapCoordinates": {"latitude": 45.9400, "longitude": 13.7283},
+    "habitat": "Navadno krastačo najpogosteje najdemo v grmiščih in gozdovih, kjer tudi prezimuje. Poleti se pogosto zadržuje tudi v bližini človekovih bivališč, na primer na vrtovih, v parkih ali mlakah. Mresti večinoma v stalnih globljih in velikih vodah z obilico vodnega rastlinja, tudi v tistih, v katerih živijo ribe.",
+    "biology":"Navadne krastače večino leta preživijo na kopnem in so predvsem nočno aktivne. Podnevi si skrivališče običajno poiščejo pod listjem, med skalami, podrtimi debli ali v zapuščenih rovih drugih živali. Isto skrivališče lahko uporabljajo čez daljše časovno obdobje. Spomladi, kmalu za rjavimi žabami, se navadne krastače v vlažnih in toplih nočeh množično selijo k mrestiščem. Samci, ki na mrestišča prispejo prvi, s tihim in nežnim oglašanjem privabljajo samice. Na mrestiščih je samcev dva do desetkrat več kot samic. Samice odlagajo jajca v vrvičastem mrestu, ki ga ovijejo okoli vodnih rastlin. Iz paglavcev se v nekaj tednih razvijejo komaj centimeter veliki mladi osebki. Ti mrestišča množično zapustijo in v primeru, da jih opazujemo od daleč, so tik nad tlemi videti kot kapljice rahlega dežja, ki se odbijajo od tal – žabji dež. Odrasle navadne krastače se takoj po odlaganju mrestov razpršijo po okoliških kopenskih habitatih, kjer se prehranjujejo z različnimi nevretenčarji in tudi vretenčarji. Plena ne lovijo, ampak sedijo in čakajo, da ta pride mimo. Navadna krastača požre vse, kar se premika in ji pride pred oči. V primeru, da se počuti ogroženo, optično poveča svoje telo tako, da ga napihne in iztegne noge, hkrati pa iz zaušesnih žlez prične intenzivno izločati strupen izloček. Navadne krastače so dolgožive, saj v naravi dočakajo tudi 20 let.",
+    "biologyStages": ["Mrest v obliki vrvice", "Paglavec se prehranjuje z algami", "Paglavec", "Pupek", "Mlada žaba"],
+    "soundFile": "toad_sound.wav",
+    "estReadingTime": "10 minutes"
+  },
+  {
+    "name": "Zelena krastača",
+    "latinName": "Bufotes viridis",
+    "image": "zaba3",
+    "description": "Zeleno krastačo spoznamo po svetlem hrbtu, belo-sive do peščeno rjave barve...",
+    "basicDescription": "Zeleno krastačo spoznamo po svetlem hrbtu, belo-sive do peščeno rjave barve, ki je prekrit s številnimi zelenimi, pogosto temno obrobljenimi lisami in manjšimi rdečimi ali oranžnimi pikami. Obarvanost in vzorec sta pri samcih pogosto bolj bleda in manj izrazita kot pri samicah. Trebuh je bel, sivo-bel ali rumenkast, pogosto z majhnimi temnejšimi pikami. Koža je groba in izrazito bradavičasta. Na glavi je opazen okrogel bobnič, njene oči pa so izbuljene, z vodoravno črno zenico in rumenkasto ali zelenkasto šarenico. Na zatilju so takoj za očmi izrazite zaušesne žleze, ki so nameščene vzporedno. Gobec je top in zaokrožen, pod njim pa lahko pri samcih opazimo en zvočni mehur. Okončine so kratke, pri samcih pa lahko v obdobju parjenja na prvih treh prstih sprednjih okončin opazimo temno obarvane kožne odebelitve, s katerimi se oprimejo samice v paritvenem objemu.",
+    "mapCoordinates": {"latitude": 45.9400, "longitude": 13.7283},
+    "habitat": "Zelena krastača je pionirska vrsta, ki pogosto naseljuje začasne plitve vode brez rastlinja in plenilcev. Izvorno je stepska vrsta, njena prvotna življenjska okolja so poplavna območja nižinskih rek z občasnimi, dobro osončenimi mlakami in rahlo prstjo. Čeprav so s človekovim poseganjem v naravo ta okolja žal postala redkejša, ji človek danes nudi številne drugotne življenjske prostore in jih tako najpogosteje najdemo v bližini gramoznic, peskokopov, na gradbiščih in v bližini naselij.",
+    "biology":"Zelena krastača je pretežno kopenska in nočno aktivna vrsta, ki se v vodi zadržuje le v kratkem obdobju parjenja, od aprila do junija. Samci takrat z značilnim oglašanjem od sončnega zahoda do polnoči privabljajo samice na mrestišča. Vrvičaste mreste odlagajo na dno, ali pa jih ovijejo okoli podvodnega rastlinja. Za razliko od navadne krastače, pri kateri so vsi paglavci črni, najdemo med paglavci zelene krastače tudi svetlejše primerke. Preobrazba se zaključi med koncem junija in začetkom avgusta, nato pa mlade zelene krastače zapustijo vodo in se napotijo proti prezimovališčem. Prezimujejo v zapuščenih talnih luknjah ter rovih ali skrite pod vejami in kamni. Neredko se skrijejo tudi v rove malih sesalcev, v kleti ali hleve. Zelena krastača se prehranjuje predvsem z žuželkami in drugimi nevretenčarji. Živi lahko tudi več kot 20 let. Je ena izmed najbolj prilagodljivih dvoživk, saj je izredno odporna na vročino, izsušitev in slano vodo, kar ji omogoča preživetje v ekstremnih podnebnih razmerah.",
+    "biologyStages": ["Mrest", "Paglavec", "Pupek", "Mlada žaba"],
+    "soundFile": "toad_sound.wav",
+    "estReadingTime": "8 minutes"
+  },
+  {
+    "name": "Sekulja",
+    "latinName": "Rana temporaria",
+    "image": "zaba4",
+    "description": "Za sekuljo je značilna velika variabilnost v obarvanosti telesa...",
+    "basicDescription": "Za sekuljo je značilna velika variabilnost v obarvanosti telesa. Hrbet je lahko sivo rjave, rdečkaste do olivno zelene ali rumenkaste barve, na katerem so pogosto opazne temnejše lise. Trebuh je mlečno bel do rumenkast ali celo oranžen s temnejšim marmoriranim vzorcem lis in pik, ki so pri samcih sive, pri samicah pa rdečkaste. Samci so nekoliko manjši in lažji od samic. Spolna dvoličnost je izrazitejša v času parjenja, ko sta oba spola izraziteje obarvana, samci pa imajo tudi modrikasto sivo grlo in močnejše sprednje okončine s črnima oprijemalnima blazinicama na prvem prstu. Glava je široka in zaobljena, gobec je kratek in top, bobnič pa je v premeru manjši od očesa. Oglašajo se le samci, ki imajo na dnu ustne votline parna notranja zvočna mehurja. Za sekuljo je značilna eliptična in vodoravna očesna zenica. Na prvem prstu zadnje noge je opazna majhna, sploščena in mehka petna grbica.",
+    "mapCoordinates": {"latitude": 45.9400, "longitude": 13.7283},
+    "habitat": "Hladni, senčni gozdovi in gozdni robovi, gosta vegetacija na barjih in močvirnih travnikih. Mrestišča predstavljajo različno velike, najpogosteje osončene, stoječe (mlake, jezera, močvirja) in počasi tekoče vode (izviri, naravne zajezitve potokov).",
+    "biology":"Sekulja večino leta preživi na kopnem, kjer se skriva pod kamni, odpadlim listjem, koreninami, trhlimi ostanki dreves in med gosto vegetacijo. Med kopenskimi in vodnimi bivališči se seli do 2 km daleč. V vodnih bivališčih se odrasli osebki zadržujejo v času razmnoževanja, od februarja do aprila. Selijo se množično. Na mrestišča nekaj dni prej pridejo samci, ki nato z grulečim razpotegnjenim oglašanjem privabljajo samice. Po odlaganju mrestov v vodi poteče razvoj od jajc do preobrazbe, nato pa mlade živali vodno okolje zapustijo. Mlade sekulje so aktivne v glavnem podnevi, odrasle pa tudi ponoči. Tako odrasle kot mlade živali se prehranjujejo s številnimi nevretenčarji, paglavci pa jedo večinoma odmrle rastlinske in živalske delce. Sekulje lahko živijo do 10 let, zaradi plenilcev, bolezni in neugodnih klimatskih in ekoloških razmer pa to starost dočakajo le redke.",
+    "biologyStages": ["Mreste odlaga več samic hkrati, zato jih najdemo strnjene v večje blazine.", "Paglavec", "Pupek", "Mlada žaba"],
+    "soundFile": "toad_sound.wav",
+    "estReadingTime": "12 minutes"
+  }
+]

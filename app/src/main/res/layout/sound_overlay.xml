@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/sound_overlay"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#CC99E265"
+    android:padding="24dp"
+    android:visibility="gone"
+    android:layout_alignParentBottom="true"
+    android:layout_marginBottom="20dp">
+
+    <ImageButton
+    android:id="@+id/btn_close"
+    android:layout_width="40dp"
+    android:layout_height="40dp"
+    android:layout_alignParentEnd="true"
+    android:background="@android:color/transparent"
+    android:outlineSpotShadowColor="@color/transparent"
+    android:src="@android:drawable/ic_menu_close_clear_cancel" />
+
+    <!-- Frog name -->
+    <TextView
+    android:id="@+id/frog_name"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/zelena_rega"
+    android:textColor="#FFFFFF"
+    android:textSize="22sp"
+    android:textStyle="bold"
+    android:layout_alignParentStart="true"
+    android:layout_marginTop="16dp"
+    android:layout_toStartOf="@id/btn_close" />
+
+    <!-- Sound waveform image -->
+    <VideoView
+    android:id="@+id/video_waveform"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:layout_below="@id/frog_name"
+    android:layout_marginTop="20dp"
+    android:layout_centerInParent="true"
+    android:background="@android:color/transparent" />
+
+    <!-- Audio progress -->
+    <TextView
+    android:id="@+id/timer"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/video_waveform"
+    android:text="@string/_0_00"
+    android:textColor="#FFF"
+    android:layout_alignParentStart="true"
+    android:layout_marginTop="8dp" />
+
+    <TextView
+    android:id="@+id/duration"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/_3_08"
+    android:textColor="#FFF"
+    android:layout_alignParentEnd="true"
+    android:layout_below="@id/video_waveform"
+    android:layout_marginTop="8dp" />
+
+    <!-- Playback controls -->
+    <LinearLayout
+    android:id="@+id/play_controls"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/duration"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="15dp"
+    android:orientation="horizontal">
+
+    <!-- Previous / unused -->
+    <ImageButton
+    android:id="@+id/btn_prev"
+    android:layout_width="48dp"
+    android:layout_height="48dp"
+    android:src="@android:drawable/ic_media_previous"
+    android:background="@android:color/transparent"
+    app:tint="#FFFFFF" />
+
+    <!-- Play / Pause -->
+    <ImageButton
+    android:id="@+id/btn_play"
+    android:layout_width="72dp"
+    android:layout_height="72dp"
+    android:src="@android:drawable/ic_media_play"
+    android:background="@android:color/transparent"
+    android:layout_marginHorizontal="12dp"
+    app:tint="#FFFFFF" />
+
+    <!-- Next / unused -->
+    <ImageButton
+    android:id="@+id/btn_next"
+    android:layout_width="48dp"
+    android:layout_height="48dp"
+    android:src="@android:drawable/ic_media_next"
+    android:background="@android:color/transparent"
+    app:tint="#FFFFFF" />
+
+    </LinearLayout>
+
+</RelativeLayout>
